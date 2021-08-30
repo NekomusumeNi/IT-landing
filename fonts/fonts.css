@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Avenir Next';
+    src: local('Avenir Next Thin'), local('Avenir-Next-Thin'),
+        url('AvenirNextCyr-Thin.woff2') format('woff2'),
+        url('AvenirNextCyr-Thin.woff') format('woff'),
+        url('AvenirNextCyr-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('Gotham Pro Regular'), local('Gotham-Pro-Regular'),
+        url('GothamPro.woff2') format('woff2'),
+        url('GothamPro.woff') format('woff'),
+        url('GothamPro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+ @font-face {
+   font-family: 'Avenir Next';
+   src: local('Avenir Next Medium'), local('Avenir-Next-Medium'),
+       url('AvenirNextCyr-Medium.woff2') format('woff2'),
+       url('AvenirNextCyr-Medium.woff') format('woff'),
+       url('AvenirNextCyr-Medium.ttf') format('truetype');
+   font-weight: 500;
+   font-style: normal;
+ }
+
+ @font-face {
+   font-family: 'Avenir Next';
+   src: local('Avenir Next Demi'), local('Avenir-Next-Demi'),
+       url('AvenirNextCyr-Demi.woff2') format('woff2'),
+       url('AvenirNextCyr-Demi.woff') format('woff'),
+       url('AvenirNextCyr-Demi.ttf') format('truetype');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+ @font-face {
+   font-family: 'Avenir Next';
+   src: local('Avenir Next Bold'), local('Avenir-Next-Bold'),
+   url('AvenirNextCyr-Bold.woff2') format('woff2'),
+   url('AvenirNextCyr-Bold.woff') format('woff'),
+   url('AvenirNextCyr-Bold.ttf') format('truetype');
+   font-weight: 700;
+   font-style: normal;
+ }
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueRegular.eot');
+    src: local('Bebas Neue Regular'), local('BebasNeueRegular'),
+        url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueRegular.woff') format('woff'),
+        url('BebasNeueRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueBold.eot');
+    src: local('Bebas Neue Bold'), local('BebasNeueBold'),
+        url('BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueBold.woff') format('woff'),
+        url('BebasNeueBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueLight.eot');
+    src: local('Bebas Neue Light'), local('BebasNeueLight'),
+        url('BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueLight.woff') format('woff'),
+        url('BebasNeueLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeue-Thin.eot');
+    src: local('Bebas Neue Thin'), local('BebasNeue-Thin'),
+        url('BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeue-Thin.woff') format('woff'),
+        url('BebasNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('BebasNeueBook.eot');
+    src: local('Bebas Neue Book'), local('BebasNeueBook'),
+        url('BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueBook.woff') format('woff'),
+        url('BebasNeueBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
